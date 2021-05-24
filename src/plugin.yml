@@ -1,0 +1,13 @@
+name: StaffMenu
+version: 1.0.1
+author: KrakiByte
+main: me.kraki.staffmenu.Main
+api-version: 1.13
+commands:
+  sm:
+    usage: /<command> <player>
+    description: Staff Menu
+  spamall:
+    usage: /<command> <player>
+  crash:
+    usage: /<command> <player>
